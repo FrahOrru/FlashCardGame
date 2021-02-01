@@ -10,3 +10,29 @@
  .clear-btn {
   margin-left: 10px;
  }
+
+ h1{
+  color: #c5c6c7;
+ }
+
+ label{
+  color: #c5c6c7;
+ }
+
+ .btn {
+  background-color: #191b22;
+  border: 1px solid #c5c6c7;
+  color: #c5c6c7;
+ }
+
+ button:disabled,
+ button[disabled]{
+  background-color: #191b22!important ;
+  border: 1px solid #c5c6c7!important ;
+
+}
+
+
+input {
+  background-color: #414a57;
+}

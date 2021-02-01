@@ -2,11 +2,15 @@
   width: 300px;
   display: inline-block;
   margin: 10px;
+  background-color: #414a57;
+  color: #c5c6c7;
  }
  .card-header {
   cursor: pointer;
  }
-
+ .card-header-title{
+  color: #c5c6c7;
+ }
  .correct {
   background: #51be51;
  }
